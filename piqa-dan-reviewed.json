@@ -137,8 +137,8 @@
     },
     {
         "prompt": "Hvordan viser man at man gerne vil bremse på et cykel?",
-        "solution0": "man holder den en hånd op, for at signalere at man har tænkt sig at stoppe.",
-        "solution1": "man holder den en hånd til venstre, for at signalere at man har tænkt sig at stoppe.",
+        "solution0": "man holder den ene hånd op, for at signalere at man har tænkt sig at stoppe.",
+        "solution1": "man holder den ene hånd foran sig, for at signalere at man har tænkt sig at stoppe.",
         "label": 0,
         "n_words": 27,
         "id": 17
