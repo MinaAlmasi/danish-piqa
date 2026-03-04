@@ -40,7 +40,7 @@
         "id": 4
     },
     {
-        "prompt": "Hvis jeg netop har smurt min leverpostejsmad og så vender den på hovedet så",
+        "prompt": "Hvis jeg har smurt mig en rugbrødsmad med leverpostej og derefter vender den på hovedet så",
         "solution0": "falder på pålægget af.",
         "solution1": "bliver pålægget siddende.",
         "label": 1,
