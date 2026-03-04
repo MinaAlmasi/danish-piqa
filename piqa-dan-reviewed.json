@@ -257,8 +257,8 @@
     },
     {
         "prompt": "Københavns havn er",
-        "solution0": "ren nok til at bade i",
-        "solution1": "for beskidt til at bade i",
+        "solution0": "ren nok til at bade i.",
+        "solution1": "for beskidt til at bade i.",
         "label": 0,
         "n_words": 9,
         "id": 32
