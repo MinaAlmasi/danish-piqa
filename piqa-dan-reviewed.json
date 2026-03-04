@@ -233,8 +233,8 @@
     },
     {
         "prompt": "Hvis jeg tager en kuglepen og holder fast i begge ender, hvad sker der hvis slidder med den ene hånd?",
-        "solution0": "Kuglepennen bliver hængende ca. vandret i luften",
-        "solution1": "Kuglepennen falder ned og hænger ca. lodret i luften",
+        "solution0": "Kuglepennen bliver hængende ca. vandret i luften.",
+        "solution1": "Kuglepennen falder ned og hænger ca. lodret i luften.",
         "label": 0,
         "n_words": 27,
         "id": 29
