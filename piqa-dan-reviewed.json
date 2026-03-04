@@ -113,8 +113,8 @@
     },
     {
         "prompt": "Når man eksempelvis til jul laver flæskesteg er det er vigtigt at sikre sig at",
-        "solution0": "sværene er sprøde",
-        "solution1": "kødet er mørt",
+        "solution0": "sværene er sprøde ellers er den ikke helt god.",
+        "solution1": "kødet er mørt ellers er den ikke helt god.",
         "label": 0,
         "n_words": 18,
         "id": 14
