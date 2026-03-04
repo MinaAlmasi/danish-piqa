@@ -105,8 +105,8 @@
     },
     {
         "prompt": "Vil gerne komme hurtigere ned ad kælkebakken end mine venner. Hvad kan jeg gøre for at min kælk er hurtigere?",
-        "solution0": "Gnid mederne eller undersiden af kælken med stearin",
-        "solution1": "Gnid mederne eller undersiden af kælken med olie",
+        "solution0": "Gnid mederne eller undersiden af kælken med stearin.",
+        "solution1": "Gnid mederne eller undersiden af kælken med olie.",
         "label": 0,
         "n_words": 28,
         "id": 13
