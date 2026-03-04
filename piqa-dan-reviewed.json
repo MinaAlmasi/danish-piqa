@@ -201,8 +201,8 @@
     },
     {
         "prompt": "Jeg har låst min cykel fast til en lygtepæl og mistet nøglen. Hvordan får jeg nemmest min cykel fri?",
-        "solution0": "Det nemmeste er, at bryde låset op",
-        "solution1": "Det nemmeste er, at løfte den henover pælen",
+        "solution0": "Det nemmeste er, at bryde låset op.",
+        "solution1": "Det nemmeste er, at løfte den henover pælen.",
         "label": 0,
         "n_words": 26,
         "id": 25
