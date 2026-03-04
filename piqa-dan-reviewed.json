@@ -32,7 +32,7 @@
         "id": 3
     },
     {
-        "prompt": "Hvis man netop har købt et højtbelagte og vender det på hovedet så",
+        "prompt": "Hvis man netop har købt et højtbelagt smørrebrød og vender det på hovedet så",
         "solution0": "falder på pålægget af.",
         "solution1": "bliver pålægget siddende.",
         "label": 0,
