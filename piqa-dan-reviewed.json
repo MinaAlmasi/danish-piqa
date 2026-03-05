@@ -393,8 +393,8 @@
     },
     {
         "prompt": "I løbet af natten har det sneet en hel masse, så om morgenen efter at have set tv-avisen beslutter Hans sig for at",
-        "solution0": "tage toget på arbejde",
-        "solution1": "tage cyklen på arbejde",
+        "solution0": "tage toget på arbejde.",
+        "solution1": "tage cyklen på arbejde.",
         "label": 0,
         "n_words": 27,
         "id": 49
