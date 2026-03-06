@@ -796,5 +796,13 @@
     "label": 1,
     "n_words": 27,
     "id": 99
+  },
+  {
+    "prompt": "Da jeg var i gang med at dyrke yoga hjemme i stuen kom jeg til at slå hovedet ind i hylden med min monstrea",
+    "solution0": "så den faldt ned og gik i stykker. Der er nu jord ud over det hele.",
+    "solution1": "så den faldt ned og gik i stykker. Der er nu støv ud over det hele.",
+    "label": 0,
+    "n_words": 40,
+    "id": 100
   }
 ]
