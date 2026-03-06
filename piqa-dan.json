@@ -1,10 +1,10 @@
 [
   {
-    "prompt": "Når du jeg har inviteret en gruppe venner på besøg så forventer jeg at når de kommer at de gør følgende",
+    "prompt": "Når jeg har inviteret en gruppe venner på besøg så forventer jeg når de kommer at de gør følgende",
     "solution0": "Banker på, hilser, samt tager sko og overtøj af inden de går ind.",
     "solution1": "Banker på, hilser, samt tager overtøj af inden de går ind.",
     "label": 0,
-    "n_words": 34,
+    "n_words": 32,
     "id": 0
   },
   {
